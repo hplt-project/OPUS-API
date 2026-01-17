@@ -60,3 +60,8 @@ Restart apache2 server:
 And now you are able use the API, for example:
 
 `http://vm0024.kaj.pouta.csc.fi/opusapi/?corpus=OpenSubtitles&source=en&target=fi&preprocessing=xml&version=latest`
+
+
+## Acknowledgements
+
+This project has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement No 101070350.
